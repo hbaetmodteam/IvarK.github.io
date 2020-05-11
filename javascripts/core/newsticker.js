@@ -2,64 +2,7 @@ var newsArray;
 
 function updateNewsArray() {
 newsArray = [//always true
-
-["Breaking News: 
-<blue>
-It's been months now since the channel for suggesting new messages in the ticker has been deleted and new fans of the game are still mad about it. 
-We're here at the Antimatter Dimensions Development HQ to see how and what these protesters are doing. Let's ask this young lad right here. 
-</blue>
-
-<blue>
-Who are you and why are you here right now? 
-</blue>
-
-<red>
-Hello uhh, my name is Timmy and I play this game 25 hours a day because I uh- love it so much and I am really mad that we can't submit news tick-
-</red>
-
-<blue>
-You mean news messages?
-</blue>
-
-<red>
-What?
-</red>
-
-<blue>
-Yeah uhh, nevermind let's ask anoth- Oh what's that Mike?
-
-[A bit of space]
-
-Oh... Alright thanks for the info! Well apparently the developers have opened the suggestions channel to a couple of lucky people a couple of days ago and we're expecting the first suggestions to come out within a few min- Oh it's there it's there! Point the camera at the screen, quickly!
-</blue>
-
-[Slight space]
-
-<white>
-[Insert random non-quality suggestion here]
-</white>
-
-[Space]
-
-<blue>
-Oh... Well that's... Interesting to say the least. Well now we know that the developers are taking inspiration from players aga- Wait what's that again Mike? The developers discontinued the entire thing? Oh... Okay that's also interes-
-</blue>
-
-<green>
-Uhh, sir?
-</green>
-
-<blue>
-Yeah?
-</blue>
-
-<green>
-The Antimatter Cannons seems to be charging, and they're aiming directly at us.
-</green>
-
-<blue>
-Well then, now is probably a good time to end this. Well this is your reporter, Joey Chad, SIGNING OU-
-</blue>", true, "a1"], ["Antimatter cookies have been confirmed to not exist, whoever claims that, stop.", true, "a4"], ["Antimatter ghosts do not exist. Just like matter ghosts. They don't have any matter, for that matter.", true, "a2"],
+["The cookie is a lie.", true, "a1"], ["Antimatter cookies have been confirmed to not exist, whoever claims that, stop.", true, "a4"], ["Antimatter ghosts do not exist. Just like matter ghosts. They don't have any matter, for that matter.", true, "a2"],
 ["Nuclear power plants have been abandoned in favor of antimatter power.", true, "a3"],
 ["Antimatter prices have drastically dropped due to newfound abundance.", true, "a5"], ["In the news today, humans make an antimatter animal sacrifice to the antimatter god.", true, "a6"], ["You made one antimatter! Whatever that means.", true, "a7"],
 ["Scientists confirm that the colour of antimatter is Blurple", true, "a11"], ["How does it matter if its antimatter?", true, "a10"], ["None of this matters", true, "a9"], ["IN THE END, IT DOESN'T ANTIMATTER -hevipelle", true, "a8"],
