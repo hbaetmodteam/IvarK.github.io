@@ -80,7 +80,10 @@ newsArray = [//always true
 ["This mod is made by [REDACTED]", true, "a140"],
 ["Matter has waged war on you. Attack? -Boi", true, "a141"],
 ["Hey, Vsauce! Michael here. This game is all about producing antimatter, and its pretty simple at first, but once you get to infinity, or approximately 2 raised to the a thousand and twenty fourth power, a lot of things will be introduced. This is DONG, things you can Do Online Now Guys™.", true, "a142"],
-  
+["What do you call a hyped hippo? A hyppoh.", true, "a142"],
+["It\'s been months now since the channel for suggesting new messages in the ticker has been deleted and new fans of the game are still mad about it. We\'re here at the Antimatter Dimensions Development HQ to see how and what these protesters are doing. Let\'s ask this young lad right here. Who are you and why are you here right now? \"Hello uhh, my name is Timmy and I play this game 25 hours a day because I uh- love it so much and I am really mad that we can't submit news tick-\" You mean news messages? \"What?\" Yeah uhh, nevermind let's ask anoth- Oh what's that Mike? ... Oh... Alright thanks for the info! Well apparently the developers have opened the suggestions channel to a couple of lucky people a couple of days ago and we're expecting the first suggestions to come out within a few min- Oh it's there it's there! Point the camera at the screen, quickly! [insert random non-quality suggestion here] Oh... Well that's... Interesting to say the least. Well now we know that the developers are taking inspiration from players aga- Wait what's that again Mike? The developers discontinued the entire thing? Oh... Okay that's also interes- \"Uhh, sir?\" Yeah? \"The Antimatter Cannons seems to be charging, and they're aiming directly at us.\" Well then, now is probably a good time to end this. Well this is your reporter, Joey Chad, SIGNING OU-", true, "a143"],
+["We will move on to your five pm news after a quick word form our sponsor: *insert sponsor here* Hey have you seen that video where they replaced every single person in Indiana Jones with a hotdog? What do you mean we're live? F**k", true, "a144"],
+
 // Patreon ones
 ["Is this a jojo reference?", true, "pat1"],
 
